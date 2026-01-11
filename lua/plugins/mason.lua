@@ -15,6 +15,7 @@ return {
       "csharpier",
       "netcoredbg",
       "fantomas",
+      "avalonia-ls",
     },
   },
   {
